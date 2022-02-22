@@ -1,1 +1,1 @@
-# Ausarta_hotspot.github.io
+# Gestión HotSpot
