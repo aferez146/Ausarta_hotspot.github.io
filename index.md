@@ -9,8 +9,7 @@ Para la gestión de usuarios wifi con la herramienta, tenemos tres apartados muy
 2. Usuarios
 3. Usuarios en línea
 
-Estos tres apartados son los apartados principales que se usarán en el día a día de la herramienta.
-Prueba imagen:
+Estos tres apartados son los apartados principales que se usarán en el día a día de la herramienta:
 ![](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif_tablero.gif)
 
 ```markdown
