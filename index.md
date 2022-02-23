@@ -1,8 +1,6 @@
- Welcome to GitHub Pages
+Bienvenido a la herramienta de gestión de usuarios de Wifi
 
-You can use the [editor on GitHub](https://github.com/aferez146/Ausarta_hotspot.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta herramienta está pensada para la creación y gestión de usuarios para el uso de wifi en espacios como hoteles, bares, restaurantes, etc... aquí podrá conocer el funcionamiento básico y consultar posibles dudas.
 
 ### Markdown
 
