@@ -43,9 +43,10 @@ En esta sección se gestionan los diferentes perfiles de usuario con sus limitac
           -  Notice: El usuario no se elimina
           -  Record: Guarda el precio de cada sesión (si lo tuviera)
           
-por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
 
 ![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/perfil_usuario.PNG "Perfil_Usuarios")
+
+por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
 
 ### Usuarios
 
