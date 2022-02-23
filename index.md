@@ -2,9 +2,14 @@
 
 Con esta herramienta está pensada para la creación y gestión de usuarios para el uso de wifi en espacios como hoteles, bares, restaurantes, etc... aquí podrá conocer el funcionamiento básico y consultar posibles dudas.
 
-### Markdown
+### Conceptos Básicos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para la gestión de usuarios wifi con la herramienta, tenemos tres apartados muy importantes que están dentro de la opción **Hotspot**:
+1. Perfil del Usuario
+2. Usuarios
+3. Usuarios en línea
+
+Estos tres apartados son los apartados principales que se usarán en el día a día de la herramienta.
 Prueba imagen:
 ![Image of a](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/tablero.png "tablero")
 
