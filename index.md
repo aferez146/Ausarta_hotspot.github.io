@@ -13,7 +13,7 @@ Estos tres apartados son los apartados principales que se usarán en el día a d
 ![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif_tablero.gif)
 
 ### Perfil de Usuario
-
+![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif_2.gif)
 En esta sección se gestionan los diferentes perfiles de usuario con sus limitaciones,conexiones compartidas, ratio subida/bajada y el modo de expirar cada usuario. Las configuraciones más importantes, son:
 1.  Nombre: Nombre del perfil a utilizar.
 2.  Shared Users: Número de dispositivos máximos que se conectan al wifi en ese perfil.
