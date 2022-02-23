@@ -35,6 +35,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Perfil de Usuario
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aferez146/Ausarta_hotspot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/perfil_usuario.PNG "Perfil_Usuarios")
 
 ### Usuarios
 
