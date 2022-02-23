@@ -11,7 +11,7 @@ Para la gestión de usuarios wifi con la herramienta, tenemos tres apartados muy
 
 Estos tres apartados son los apartados principales que se usarán en el día a día de la herramienta.
 Prueba imagen:
-![Image of a](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif_tablero.gif "Usuarios")
+![image](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif_tablero.gif)
 
 ```markdown
 Syntax highlighted code block
