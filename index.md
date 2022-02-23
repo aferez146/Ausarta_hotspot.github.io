@@ -5,6 +5,8 @@ Con esta herramienta está pensada para la creación y gestión de usuarios para
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prueba imagen:
+![Creative Commons BY SA](../img/git/cc-by-sa.png){ width=50% text-align=center }
 
 ```markdown
 Syntax highlighted code block
