@@ -39,9 +39,9 @@ En esta sección se gestionan los diferentes perfiles de usuario con sus limitac
 2.  Shared Users: Número de dispositivos máximos que se conectan al wifi en ese perfil.
 3.  Rate limit: El límite de velocidad de subida y bajada en Mbps.
 4.  Modo expirado: El modo en el que los usuarios caducan, pueden ser:
-          1.  Remove: El usuario se elimina.
-          2.  Notice: El usuario no se elimina
-          3.  Record: Guarda el precio de cada sesión (si lo tuviera)
+          -  Remove: El usuario se elimina.
+          -  Notice: El usuario no se elimina
+          -  Record: Guarda el precio de cada sesión (si lo tuviera)
           
 por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
 
