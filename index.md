@@ -1,4 +1,4 @@
-Bienvenido a la herramienta de gestión de usuarios de Wifi
+**Bienvenido a la herramienta de gestión de usuarios de Wifi**
 
 Esta herramienta está pensada para la creación y gestión de usuarios para el uso de wifi en espacios como hoteles, bares, restaurantes, etc... aquí podrá conocer el funcionamiento básico y consultar posibles dudas.
 
