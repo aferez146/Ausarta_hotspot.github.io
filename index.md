@@ -34,7 +34,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Perfil de Usuario
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aferez146/Ausarta_hotspot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+En esta sección se gestionan los diferentes perfiles de usuario con sus limitaciones y conexiones compartidas, por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
+
 ![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/perfil_usuario.PNG "Perfil_Usuarios")
 
 ### Usuarios
