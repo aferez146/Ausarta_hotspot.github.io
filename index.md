@@ -20,9 +20,11 @@ En esta sección se gestionan los diferentes perfiles de usuario con sus limitac
 3.  Rate limit: El límite de velocidad de subida y bajada en Mbps.
 4.  Modo expirado: El modo en el que los usuarios caducan, pueden ser:
 
-+Remove: El usuario se elimina.
-          -  Notice: El usuario no se elimina
-          -  Record: Guarda el precio de cada sesión (si lo tuviera)
+          +Remove: El usuario se elimina.
+          
+          +Notice: El usuario no se elimina
+          
+          +Record: Guarda el precio de cada sesión (si lo tuviera)
           
 
 ![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/perfil_usuario.PNG "Perfil_Usuarios")
