@@ -12,26 +12,6 @@ Para la gestión de usuarios wifi con la herramienta, tenemos tres apartados muy
 Estos tres apartados son los apartados principales que se usarán en el día a día de la herramienta:
 ![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif_tablero.gif)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Perfil de Usuario
 
 En esta sección se gestionan los diferentes perfiles de usuario con sus limitaciones,conexiones compartidas, ratio subida/bajada y el modo de expirar cada usuario. Las configuraciones más importantes, son:
