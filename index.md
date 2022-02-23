@@ -33,6 +33,8 @@ por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límit
 
 ### Usuarios
 
+![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif3.gif)
+
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
