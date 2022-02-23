@@ -34,7 +34,16 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Perfil de Usuario
 
-En esta sección se gestionan los diferentes perfiles de usuario con sus limitaciones y conexiones compartidas, por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
+En esta sección se gestionan los diferentes perfiles de usuario con sus limitaciones,conexiones compartidas, ratio subida/bajada y el modo de expirar cada usuario. Las configuraciones más importantes, son:
+1.  Nombre: Nombre del perfil a utilizar.
+2.  Shared Users: Número de dispositivos máximos que se conectan al wifi en ese perfil.
+3.  Rate limit: El límite de velocidad de subida y bajada en Mbps.
+4.  Modo expirado: El modo en el que los usuarios caducan, pueden ser:
+          1.  Remove: El usuario se elimina.
+          2.  Notice: El usuario no se elimina
+          3.  Record: Guarda el precio de cada sesión (si lo tuviera)
+          
+por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límite de bajada de 5 Mb y otro de subida 10 Mb, también queremos que se conecten 10 dispositivos diferentes y queremos que el usuario se elimine al consumir su plazo, estas acciones se configuran en este menú. 
 
 ![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/perfil_usuario.PNG "Perfil_Usuarios")
 
