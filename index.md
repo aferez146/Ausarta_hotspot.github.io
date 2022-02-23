@@ -6,6 +6,7 @@ Con esta herramienta está pensada para la creación y gestión de usuarios para
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Prueba imagen:
+https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/tablero.png
 ![Book logo](/gh-pages/Gestion-HotSpot/tablero.png)
 
 ```markdown
