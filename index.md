@@ -33,9 +33,14 @@ por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límit
 
 ### Usuarios
 
+En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los usuarios se pueden añadir de dos maneras:
+1. Añadir Usuario: Se añade los usuarios uno por uno, se deben rellenar los siguientes campos:
+
+![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/ad_usser.PNG"add_user")
+
+
 ![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif3.gif)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
 ### Usuarios en línea
