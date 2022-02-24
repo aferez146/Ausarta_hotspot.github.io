@@ -43,7 +43,8 @@ En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los
           4.Límite de datos: Si queremos que el usuario tenga una cuota máxima de datos, por ejemplo 5 Gb.
           5.Comentario: Aqui se debe poner un comentario con la siguiente nomenclatura "-dd/mm/aaaa", por ejemplo "-24/02/2022", este campo nos será útil para poder imprimir los tickets wifi generados.
           
-
+2. Generar Voucher: Similar al anterior, en este caso sirve para añadir bloques de usuarios:
+![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/ad_usser.PNG "Add_user")
 
 
 ![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif3.gif)
