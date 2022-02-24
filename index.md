@@ -69,5 +69,5 @@ Para imprimir tickets, en primer lugar se debe filtrar por el comentario hecho a
 3. Small: Se imprimen las credenciales del wifi en texto plano, sin tarjeta.
 
 Ejemplo de uso:
-![](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif5.gif?raw=true.gif)
+![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif6.gif)
 
