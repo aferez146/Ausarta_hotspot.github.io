@@ -58,7 +58,7 @@ En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los
 Ejemplo de uso:
 
 
-![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif3.gif)
+![](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif5.gif?raw=true.gif)
 
 
 
