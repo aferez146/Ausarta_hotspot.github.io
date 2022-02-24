@@ -41,7 +41,7 @@ En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los
           2.Password: Contraseña asignada para ese usuario.
           3.Perfil: El perfil creado que se ajusta a ese usuario.
           4.Límite de datos: Si queremos que el usuario tenga una cuota máxima de datos, por ejemplo 5 Gb.
-          5.Comentario: Aqui se debe poner un comentario con la siguiente nomenclatura "-dd/mm/aaaa", por ejemplo "-24/02/2022", este campo nos será útil para poder imprimir                           los tickets wifi generados.
+          5.Comentario: Aqui se debe poner un comentario con la siguiente nomenclatura "-dd/mm/aaaa", por ejemplo "-24/02/2022", este campo nos será útil para poder imprimir los tickets wifi generados.
           
 
 
