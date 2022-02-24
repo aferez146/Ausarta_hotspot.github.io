@@ -62,4 +62,12 @@ Ejemplo de uso:
 
 
 
-### Usuarios en línea
+### Imprimir Tickets
+Para imprimir tickets, en primer lugar se debe filtrar por el comentario hecho anteriormente, una vez filtrado por comentario, se puede imprimir el ticket de tres maneras diferentes:
+1. Por defecto: Se imprime el ticket sin código QR y con una tarjeta que se puede personalizar.
+2. QR: Se imprime una tarjeta que se puede personalizar con un código QR.
+3. Small: Se imprimen las credenciales del wifi en texto plano, sin tarjeta.
+
+Ejemplo de uso:
+![](https://github.com/aferez146/Gestion-HotSpot/blob/gh-pages/gif5.gif?raw=true.gif)
+
