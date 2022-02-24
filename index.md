@@ -34,7 +34,7 @@ por ejemplo si tenemos un hotel y queremos que las habitaciones tengan un límit
 ### Usuarios
 
 En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los usuarios se pueden añadir de dos maneras:
-1. Añadir Usuario: Se añade los usuarios uno por uno, se deben rellenar los siguientes campos:
++. Añadir Usuario: Se añade los usuarios uno por uno, se deben rellenar los siguientes campos:
 ![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/ad_usser.PNG "Add_user")
 
 
