@@ -44,7 +44,16 @@ En esta sección, se podrá agregar los usuarios que van a utilizar el wifi. Los
           5.Comentario: Aqui se debe poner un comentario con la siguiente nomenclatura "-dd/mm/aaaa", por ejemplo "-24/02/2022", este campo nos será útil para poder imprimir los tickets wifi generados.
           
 2. Generar Voucher: Similar al anterior, en este caso sirve para añadir bloques de usuarios:
-![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/ad_usser.PNG "Add_user")
+![image](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/ad_voucher.PNG "Add_voucher")
+
+          1.Cantidad: Cantidad de usuarios que se van a crear.
+          2.Modo usuarios: Si el usuario a crear tiene usuario y contraseña o si el usuario es igual a la contraseña.
+          3.Longitud del código: Longitud del nombre del usuario a crear.
+          4.Prefijo: El prefijo que contendra el usuario, por ejemplo "User".
+          5.Caracteres: Los caracteres que se rellenan después del prefijo, es una secuencia aleatoria de letras o números y letras.
+          6.Perfil: El perfil creado que se ajusta a ese usuario.
+          7.Límite de datos: Si queremos que el usuario tenga una cuota máxima de datos, por ejemplo 5 Gb.
+          8.Comentario: Aqui se debe poner un comentario con la siguiente nomenclatura "-dd/mm/aaaa", por ejemplo "-24/02/2022", este campo nos será útil para poder imprimir los tickets wifi generados.
 
 
 ![](https://raw.githubusercontent.com/aferez146/Gestion-HotSpot/gh-pages/gif3.gif)
